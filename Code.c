@@ -1,5 +1,5 @@
 #include<stdio.h>
 void main()
 {
-printf("!! hello !!");
+printf("!! hello, Welcome to Git !!");
 }
